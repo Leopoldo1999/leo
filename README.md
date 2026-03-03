@@ -8,6 +8,8 @@ In short, this code analyzes data from a simulation file that models a galactic 
 
 The notebook “TDEs, Plunges and EMRIs 1e6 2 comp 0.1UA.ipynb” is a secondary code related to my thesis. It calculates additional physical variables from the simulation that are not directly involved in the main goal (for instance, the E vs L DF distribution to illustrate mass segregation).
 
-Finally, the “Thesis code executable” is a simplified version of the main thesis code, designed to be run directly from the terminal using Julia. It allows generating output files and working efficiently from any computer.
+The “Thesis code executable” is a simplified version of the main thesis code, designed to be run directly from the terminal using Julia. It allows generating output files and working efficiently from any computer.
+
+Finally, the `Small Project' file presents an analysis of the time evolution data obtained from two different simulations I ran of a hierarchical three-body system (a binary orbiting a massive black hole) performed under different physical prescriptions. The main goal is to compare the temporal evolution of the internal and external orbital parameters of the system.
 
 Thank you very much for visiting!
